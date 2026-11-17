@@ -11,7 +11,11 @@ I'm now building my SQL, Python and BI skills through hands-on projects.
 
 ## Projects
 
-Coming soon: my SQL and Python projects (both awarded Distinction).
+| Project | Tools | What it shows |
+|---|---|---|
+| [Exploring Global Happiness with SQL](https://github.com/JustynaLA/world-happiness-sql-analysis) | PostgreSQL | Window functions, CTEs and CASE to test whether wealth predicts happiness (Distinction) |
+| [DVD Rental Analysis with SQL](https://github.com/JustynaLA/dvd-rental-sql-analysis) | PostgreSQL | 24 queries: multi-table joins, HAVING, LEFT JOIN and subqueries on a rental business |
+| [Coffee Shop Order Management System](https://github.com/JustynaLA/coffee-shop-python) | Python | Orders, billing rules, input validation, inventory and file handling (Distinction) |
 
 ## How I work with data
 
